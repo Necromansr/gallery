@@ -1,0 +1,4 @@
+#Tue Aug 25 19:36:48 EEST 2020
+base.0=/Users/maximkerimov/Desktop/development/gallery/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
